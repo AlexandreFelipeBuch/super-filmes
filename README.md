@@ -3,7 +3,7 @@
   <a href="https://felipe-buch-portifolio.netlify.app/" target="_blank">Link do MyFeeds</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Portifolio.png" />
+  <img alt="Demo" src="./Images/SuperFilmes.png" />
 </div>
 <br/>
 
