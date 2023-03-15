@@ -1,6 +1,6 @@
 <h2 align="center">
- MyFeeds<br/>
-  <a href="https://felipe-buch-portifolio.netlify.app/" target="_blank">Link do MyFeeds</a>
+ Super Filmes<br/>
+  <a href="https://superfilmesreact.netlify.app/" target="_blank">Link do Super Filmes</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/SuperFilmes.png" />
