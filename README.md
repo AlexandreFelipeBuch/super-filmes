@@ -11,14 +11,13 @@ Este projeto foi construído utilizando as seguintes tecnologias.
 
 React.js
 Node.js
-Express.js
 CSS3
 VsCode
-Vercel
 Recursos
+
 📖 Layout de várias páginas
 
-🎨 Estilizado com React-Bootstrap e CSS com cores fáceis de personalizar
+🎨 Estilizado com CSS.
 
 📱 Totalmente responsivo
 
